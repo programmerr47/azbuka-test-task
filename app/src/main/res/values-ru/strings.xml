@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Azbuka Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Profile Page -->
+    <string name="profile_model">Марка</string>
+    <string name="profile_number">Номер</string>
+    <string name="profile_color">Цвет</string>
+    <string name="profile_rating">Рейтинг</string>
+    <string name="profile_title">Профиль</string>
+    <string name="profile_orders">Заказы</string>
+    <string name="profile_change_password">Сменить пароль</string>
+    <string name="profile_documents">Документы</string>
+    <string name="profile_history_of_orders">История заказов</string>
+    <string name="profile_statistics">Статистика</string>
+    <string name="profile_bills">Счета</string>
+    <string name="profile_rates">Тарифы</string>
+    <string name="profile_rules">Правила</string>
+    <string name="profile_feedback">Обратная связь</string>
+
+    <!-- Order Details Page -->
+    <string name="order_details_title">Подробнее о заказе</string>
+    <string name="order_details_route">Маршрут</string>
+    <plurals name="order_details_passenger">
+        <item quantity="one">%1$d пассажир</item>
+        <item quantity="few">%1$d пассажира</item>
+        <item quantity="many">%1$d пассажиров</item>
+    </plurals>
+    <plurals name="order_details_time">
+        <item quantity="one">%1$s час оренды</item>
+        <item quantity="few">%1$s часа оренды</item>
+        <item quantity="many">%1$s часов оренды</item>
+    </plurals>
+    <string name="order_details_load_category">Категория груза</string>
+    <string name="order_details_cme_category">Строительные материалы и оборудование</string>
+    <string name="order_details_additional_services">Дополнительные услуги</string>
+    <string name="order_details_packing">Упаковка</string>
+    <string name="order_details_services_of_loaders">Услуги грузчиков</string>
+    <string name="order_details_delivery_floor">Доставка на этаж</string>
+    <string name="order_details_comment">Комментарий</string>
+    <string name="order_details_comment_info">О заказе максимум 150 символов. Примерный вес, размер, перечень вещей</string>
+    <string name="order_details_total_cost">Общая стоимость</string>
+
+</resources>

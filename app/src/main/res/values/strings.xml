@@ -1,5 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Azbuka Test</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Profile Page -->
+    <string name="profile_model">Model</string>
+    <string name="profile_number">Number</string>
+    <string name="profile_color">Color</string>
+    <string name="profile_rating">Rating</string>
+    <string name="profile_title">Profile</string>
+    <string name="profile_orders">Orders</string>
+    <string name="profile_change_password">Change password</string>
+    <string name="profile_documents">Documents</string>
+    <string name="profile_history_of_orders">History of orders</string>
+    <string name="profile_statistics">Statistics</string>
+    <string name="profile_bills">Bills</string>
+    <string name="profile_rates">Rates</string>
+    <string name="profile_rules">Rules</string>
+    <string name="profile_feedback">Feedback</string>
+
+    <!-- Order Details Page -->
+    <string name="order_details_title">Order details</string>
+    <string name="order_details_route">Route</string>
+    <plurals name="order_details_passenger">
+        <item quantity="one">%1$d passenger</item>
+        <item quantity="many">%1$d passengers</item>
+    </plurals>
+    <plurals name="order_details_time">
+        <item quantity="one">%1$s hour of rent</item>
+        <item quantity="many">%1$s hours of rent</item>
+    </plurals>
+    <string name="order_details_load_category">Load category</string>
+    <string name="order_details_cme_category">Construction materials and equipment</string>
+    <string name="order_details_additional_services">Additional services</string>
+    <string name="order_details_packing">Packing</string>
+    <string name="order_details_services_of_loaders">Services of loaders</string>
+    <string name="order_details_delivery_floor">Delivery floor</string>
+    <string name="order_details_comment">Comment</string>
+    <string name="order_details_comment_info">On ordering a maximum of 150 characters. Approximate weight, size, list items</string>
+    <string name="order_details_total_cost">Total cost</string>
+
 </resources>
